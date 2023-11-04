@@ -11,7 +11,7 @@ The Android Weather app is an Android application developed using Java, with the
 
 ## Screenshots
 
-![App Screenshot]([https://scontent.fbir5-1.fna.fbcdn.net/v/t39.30808-6/396930954_295021450090800_7239913159095630393_n.jpg?stp=dst-jpg_p843x403&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=bkg0xhYL-_4AX8Vw6FK&_nc_ht=scontent.fbir5-1.fna&oh=00_AfDNHOeX_E_1aOvVoEwmaDgRm3ReWL6Q1eMSXEqEJIzjTA&oe=65442C11](https://scontent.fbir5-1.fna.fbcdn.net/v/t39.30808-6/396930954_295021450090800_7239913159095630393_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5Vv16hJLQFQAX-_VEcY&_nc_ht=scontent.fbir5-1.fna&oh=00_AfCYjC5WXhhyrKwcaOnvpigk3ooU2CqDrAUo4wTzXe5r2g&oe=654A1AD1))
+![App Screenshot](https://scontent.fbir5-1.fna.fbcdn.net/v/t39.30808-6/396930954_295021450090800_7239913159095630393_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=5Vv16hJLQFQAX-_VEcY&_nc_ht=scontent.fbir5-1.fna&oh=00_AfCYjC5WXhhyrKwcaOnvpigk3ooU2CqDrAUo4wTzXe5r2g&oe=654A1AD1)
 
 ## Deployment
 
